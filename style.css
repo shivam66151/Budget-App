@@ -1,0 +1,7 @@
+.active {
+    opacity: 1 !important;
+}
+
+.hide {
+    display: none;
+}
